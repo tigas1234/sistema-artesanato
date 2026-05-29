@@ -11,15 +11,15 @@ export default function Clientes() {
         <CardContent className="p-6">
           <div className="space-y-4">
             <div className="border-b pb-2">
-              Ana Clara - Dourados
+              Tiago - Nova York
             </div>
 
             <div className="border-b pb-2">
-              Carlos Henrique - Campo Grande
+              Cassiele - África
             </div>
 
             <div>
-              Julia Mendes - Ponta Porã
+              João - China
             </div>
           </div>
         </CardContent>

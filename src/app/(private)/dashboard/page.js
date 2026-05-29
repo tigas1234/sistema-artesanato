@@ -65,18 +65,18 @@ export default function Dashboard() {
 
           <div className="space-y-4">
             <div className="flex justify-between border-b pb-2">
-              <span>Vaso artesanal</span>
-              <span>R$ 120</span>
+              <span>Camiseta</span>
+              <span>R$ 70</span>
             </div>
 
             <div className="flex justify-between border-b pb-2">
-              <span>Caneca pintada</span>
+              <span>Tapete</span>
               <span>R$ 45</span>
             </div>
 
             <div className="flex justify-between">
-              <span>Bolsa de crochê</span>
-              <span>R$ 90</span>
+              <span>Conserto</span>
+              <span>R$ 50</span>
             </div>
           </div>
         </CardContent>

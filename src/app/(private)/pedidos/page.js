@@ -24,7 +24,7 @@ export default function Pedidos() {
                 <td className="py-3">Tiago</td>
                 <td>Camiseta</td>
                 <td>Produção</td>
-                <td>R$ 120</td>
+                <td>R$ 70</td>
               </tr>
 
               <tr className="border-b">
@@ -38,7 +38,7 @@ export default function Pedidos() {
                 <td className="py-3">João</td>
                 <td>Conserto</td>
                 <td>Pendente</td>
-                <td>R$ 200</td>
+                <td>R$ 50</td>
               </tr>
             </tbody>
           </table>

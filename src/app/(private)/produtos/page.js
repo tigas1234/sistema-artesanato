@@ -11,11 +11,11 @@ export default function Produtos() {
         <Card>
           <CardContent className="p-6">
             <h2 className="font-bold text-xl">
-              Bolsa artesanal
+              Camiseta
             </h2>
 
             <p className="text-muted-foreground">
-              R$ 120
+              R$ 70
             </p>
           </CardContent>
         </Card>
@@ -23,7 +23,7 @@ export default function Produtos() {
         <Card>
           <CardContent className="p-6">
             <h2 className="font-bold text-xl">
-              Caneca pintada
+             Tapete
             </h2>
 
             <p className="text-muted-foreground">
@@ -35,11 +35,11 @@ export default function Produtos() {
         <Card>
           <CardContent className="p-6">
             <h2 className="font-bold text-xl">
-              Vaso decorativo
+              Conserto
             </h2>
 
             <p className="text-muted-foreground">
-              R$ 80
+              R$ 50
             </p>
           </CardContent>
         </Card>
